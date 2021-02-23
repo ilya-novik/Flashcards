@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Problems/Cart/out/
+/Problems/Cart/out/production/classes/
+/Problems/Find X/out/
+/Problems/Find X/out/production/classes/
+/Problems/Function composition/out/
+/Problems/Function composition/out/production/classes/
+/Problems/Number of cups/out/
+/Problems/Number of cups/out/production/classes/
+/Problems/Printing arguments/out/
+/Problems/Printing arguments/out/production/classes/
+/Problems/Quadratic equation/out/
+/Problems/Quadratic equation/out/production/classes/
+/Problems/The first digit of a two-digit number/out/
+/Problems/The first digit of a two-digit number/out/production/classes/
